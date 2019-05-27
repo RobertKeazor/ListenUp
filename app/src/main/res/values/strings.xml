@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListenUp</string>
+    <string name="username_hint">UserName</string>
+    <string name="password_hint">password</string>
+    <string name="app_title">ListenUp</string>
+</resources>
